@@ -1,0 +1,5 @@
+"name": "TheModdersDropperz",
+"version": "1.0.0",
+"description": "A Discord bot",
+"main": "bot.js",
+"author": "Robert"
